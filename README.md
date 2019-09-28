@@ -16,3 +16,11 @@ There are many website and big online market where number of products are availa
 This project is an online shop which give the best brand choice and best variety of Laptops and Smartphones.
 User will login in to the website using defined login and password.
 Then the customer can shop according to his choice and the product will be delievred to the customer.
+
+Steps to run program:
+1. download IDLE latest version from python.org website.
+2. Install IDLE.
+3. Download the code from here.
+4. Open using edit idle picture show below:
+5. When the code is open press f5 or go to run and go run module.:
+6. Enter the inputs in order displayed in python shell.
