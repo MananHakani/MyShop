@@ -46,8 +46,8 @@ def logincode():
     Login = input("login id: ")
     Password = input("Password: ")
     
-    if Login == "mananhakani@gmail.com" or Login == "Manan hakani" or Login == "Manan Hakani" or Login == "mananhakani" or Login == "9967250717":
-        if Password == "manan":
+    if Login == "xyz@gmail.com" or Login == "xyz" or Login == "XYZ" or Login == "Xyz":
+        if Password == "abc":
             print("~~~"*15)
             print("\tLogin Successful\t")
             print("~~~"*15)
@@ -1158,12 +1158,12 @@ def ecommweb():
                 chkcontinue1()
             
         elif catog1 == "B":
-            print("Name:   \tManan Hakani")
-            print("Email:  \tmananhakani@gmail.com")
-            print("Phone:  \t9967250717")
-            print("Address:\t1/B-104 Gokul Gaurav CHSL,")
-            print("         \tShivaji Road Off M G Road,")
-            print("         \tKandivali West Mumbai-400067")
+            print("Name:   \tXyz")
+            print("Email:  \txyz@gmail.com")
+            print("Phone:  \tabcd")
+            print("Address:\tabcd")
+            print("         \tabcd")
+            print("         \tabcd")
             print("\n")
             chkcontinue1()
 
